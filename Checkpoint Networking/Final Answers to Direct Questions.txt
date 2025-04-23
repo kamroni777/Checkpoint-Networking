@@ -1,0 +1,9 @@
+FQDN of 3.33.130.190: ec2-3-33-130-190.eu-central-1.compute.amazonaws.com
+
+Ping 172.16.103.134: Successful (TTL=64, time=0.5ms).
+
+FQDN via dig: debianGomycode.gomycode.com.
+
+Access windowsServer.gomycode.com in Firefox? YES.
+
+Credentials in Wireshark: Found in HTTP GET requests as Base64 (admin:password).

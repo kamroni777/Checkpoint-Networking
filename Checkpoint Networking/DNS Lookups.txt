@@ -1,0 +1,2 @@
+nslookup 3.33.130.190
+190.130.33.3.in-addr.arpa  name = ec2-3-33-130-190.eu-central-1.compute.amazonaws.com.

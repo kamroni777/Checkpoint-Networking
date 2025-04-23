@@ -1,0 +1,1 @@
+sudo tcpdump -vv dst windowsServer.gomycode.com and port www -w auth.txt

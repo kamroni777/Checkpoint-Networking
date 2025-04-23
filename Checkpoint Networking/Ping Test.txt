@@ -1,0 +1,2 @@
+ping 172.16.103.134
+64 bytes from 172.16.103.134: icmp_seq=1 ttl=64 time=0.5 ms
